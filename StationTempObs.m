@@ -8,6 +8,7 @@
 %% Read in the file for your station as a data table
 filename = '702610.csv'; %change this to select a different station
 stationdata = readtable(filename);
+x=42
 
 %% Investigate the data you are working with
 %Click in the workspace to open up the new table named stationdata. You
